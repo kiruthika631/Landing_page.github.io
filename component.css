@@ -1,0 +1,8 @@
+.b {
+  position: relative;
+  font-size: var(--font-size-29xl);
+  line-height: 100%;
+  font-family: var(--font-noto-sans-jp);
+  color: var(--neutrals-white);
+  text-align: left;
+}

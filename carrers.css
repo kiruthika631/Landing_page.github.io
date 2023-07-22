@@ -1,0 +1,8 @@
+.carrers2 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-akshar);
+  color: var(--neutrals-500);
+  text-align: left;
+}

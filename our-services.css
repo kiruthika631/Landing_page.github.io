@@ -1,0 +1,8 @@
+.our-services2 {
+  position: relative;
+  font-size: var(--font-size-45xl);
+  line-height: 100%;
+  font-family: var(--font-be-vietnam-pro);
+  color: var(--neutrals-900);
+  text-align: center;
+}

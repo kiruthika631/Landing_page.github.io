@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-alef: Alef;
+  --font-be-vietnam: "Be Vietnam";
+  --font-actor: Actor;
+  --font-david-libre: "David Libre";
+  --font-alata: Alata;
+  --font-roboto: Roboto;
+  --font-alatsi: Alatsi;
+  --font-cabin: Cabin;
+  --font-be-vietnam-pro: "Be Vietnam Pro";
+  --font-abril-fatface: "Abril Fatface";
+  --font-acme: Acme;
+  --font-lato: Lato;
+  --font-akshar: Akshar;
+  --font-open-sans: "Open Sans";
+  --font-adamina: Adamina;
+  --font-belgrano: Belgrano;
+  --font-alike-angular: "Alike Angular";
+  --font-noto-sans-jp: "Noto Sans JP";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-17xl: 36px;
+  --font-size-13xl: 32px;
+  --font-size-29xl: 48px;
+  --font-size-77xl: 96px;
+  --font-size-5xl: 24px;
+  --font-size-45xl: 64px;
+  --font-size-lg: 18px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-21xl: 40px;
+  --font-size-7xl: 26px;
+
+  /* Colors */
+  --neutrals-white: #fff;
+  --neutrals-500: #798280;
+  --neutrals-900: #162320;
+  --color-gray-100: #1a1a1a;
+  --color-black: #000;
+  --neutrals-700: #3b4744;
+  --primary-500: #165a4a;
+  --color-darkslategray-100: #0d3f35;
+  --color-gainsboro-100: #e6e6e6;
+  --color-gainsboro-200: #cfe3df;
+  --color-darkcyan: #2e8b75;
+  --color-whitesmoke-100: #f1f0f0;
+  --primary-100: #eaf1f0;
+  --color-snow-100: #fffbfb;
+  --color-snow-200: #fffafa;
+  --color-darkgray: rgba(162, 162, 164, 0.27);
+  --color-mintcream: #f5fffd;
+  --primary-300: #82b9ae;
+
+  /* Gaps */
+  --gap-61xl: 80px;
+  --gap-5xl: 24px;
+  --gap-xs: 12px;
+  --gap-37xl: 56px;
+  --gap-13xl: 32px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-13xl: 32px;
+  --padding-41xl: 60px;
+
+  /* border radiuses */
+  --br-10xs: 3px;
+}

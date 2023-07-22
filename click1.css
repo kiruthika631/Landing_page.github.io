@@ -1,0 +1,20 @@
+.click5,
+.connect-with-us7 {
+  position: relative;
+}
+.click5 {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkcyan);
+  width: 100%;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-13xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-snow-100);
+  font-family: var(--font-alef);
+}

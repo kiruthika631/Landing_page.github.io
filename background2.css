@@ -1,0 +1,6 @@
+.background8 {
+  position: relative;
+  background-color: var(--primary-100);
+  width: 100%;
+  height: 393px;
+}

@@ -1,0 +1,76 @@
+.process-01-icon12 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.create-your-ideal2,
+.studyoffice2,
+.weeks-to-build10 {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.weeks-to-build10 {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-cabin);
+  color: var(--neutrals-700);
+}
+.create-your-ideal2 {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+}
+.container15 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.more-details10 {
+  position: relative;
+  display: inline-block;
+  width: 107px;
+  height: 27px;
+  flex-shrink: 0;
+}
+.button20 {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkcyan);
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-13xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--neutrals-white);
+  font-family: var(--font-alatsi);
+}
+.details10,
+.study-room2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.details10 {
+  align-self: stretch;
+  padding: var(--padding-13xl);
+  gap: var(--gap-5xl);
+}
+.study-room2 {
+  position: relative;
+  background-color: var(--primary-100);
+  width: 100%;
+  height: 676px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--neutrals-900);
+  font-family: var(--font-alef);
+}

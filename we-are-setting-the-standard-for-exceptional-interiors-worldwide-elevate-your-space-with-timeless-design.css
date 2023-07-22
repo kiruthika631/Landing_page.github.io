@@ -1,0 +1,10 @@
+.we-are-setting2 {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 150%;
+  font-family: var(--font-alef);
+  color: var(--neutrals-900);
+  text-align: left;
+  display: inline-block;
+  width: 537px;
+}

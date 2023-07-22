@@ -1,0 +1,79 @@
+.process-01-icon11 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.balcony5,
+.create-your-balcony2,
+.weeks-to-build9 {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.weeks-to-build9 {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-cabin);
+  color: var(--neutrals-700);
+}
+.create-your-balcony2 {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+}
+.container14 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.button-inner,
+.more-details9 {
+  position: relative;
+}
+.button-inner {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.button19 {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkcyan);
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-13xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--neutrals-white);
+  font-family: var(--font-alatsi);
+}
+.balcony4,
+.details9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.details9 {
+  align-self: stretch;
+  padding: var(--padding-13xl);
+  gap: var(--gap-5xl);
+}
+.balcony4 {
+  position: relative;
+  background-color: var(--primary-100);
+  width: 100%;
+  height: 676px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--neutrals-900);
+  font-family: var(--font-alef);
+}

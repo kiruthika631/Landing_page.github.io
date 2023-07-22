@@ -1,0 +1,67 @@
+.press01-icon2,
+.press02-icon2,
+.press03-icon2,
+.press04-icon2 {
+  position: absolute;
+  top: 45px;
+  left: 148px;
+  width: 134px;
+  height: 103px;
+  object-fit: cover;
+  mix-blend-mode: luminosity;
+}
+.press02-icon2,
+.press03-icon2,
+.press04-icon2 {
+  top: 57px;
+  left: 514px;
+  width: 128px;
+  height: 73px;
+}
+.press03-icon2,
+.press04-icon2 {
+  top: 79px;
+  left: 779px;
+  width: 223px;
+  height: 29px;
+}
+.press04-icon2 {
+  top: 57px;
+  left: 1194px;
+  width: 73px;
+  height: 73px;
+}
+.press-quote-012,
+.press-quote-022,
+.press-quote-032,
+.press-quote-042 {
+  position: absolute;
+  top: 164px;
+  left: calc(50% - 667px);
+  line-height: 150%;
+  display: inline-block;
+  width: 307px;
+}
+.press-quote-022,
+.press-quote-032,
+.press-quote-042 {
+  left: calc(50% - 320px);
+  width: 300px;
+}
+.press-quote-032,
+.press-quote-042 {
+  left: calc(50% + 20px);
+}
+.press-quote-042 {
+  left: calc(50% + 360px);
+}
+.inspired-by2 {
+  position: relative;
+  background-color: var(--color-darkgray);
+  width: 100%;
+  height: 271px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--neutrals-500);
+  font-family: var(--font-acme);
+}

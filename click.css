@@ -1,0 +1,22 @@
+.connect-with-us6 {
+  position: relative;
+  -webkit-text-stroke: 1px #939393;
+}
+.click4 {
+  position: relative;
+  border-radius: var(--br-10xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--neutrals-900);
+  box-sizing: border-box;
+  width: 100%;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-13xl);
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--neutrals-900);
+  font-family: var(--font-alef);
+}

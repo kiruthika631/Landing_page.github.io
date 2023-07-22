@@ -1,0 +1,11 @@
+.sophistication-simplified2 {
+  position: relative;
+  font-size: var(--font-size-77xl);
+  line-height: 115%;
+  font-family: var(--font-abril-fatface);
+  color: var(--neutrals-900);
+  text-align: left;
+  display: inline-block;
+  width: 699px;
+  height: 277px;
+}

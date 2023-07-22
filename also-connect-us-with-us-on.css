@@ -1,0 +1,8 @@
+.also-connect-us2 {
+  position: relative;
+  font-size: var(--font-size-29xl);
+  line-height: 100%;
+  font-family: var(--font-david-libre);
+  color: var(--color-darkslategray-100);
+  text-align: left;
+}

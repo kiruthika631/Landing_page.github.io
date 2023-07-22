@@ -1,0 +1,172 @@
+.background4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+}
+.our-services1 {
+  position: absolute;
+  top: 172px;
+  left: calc(50% - 159px);
+  font-size: var(--font-size-45xl);
+  line-height: 100%;
+  font-family: var(--font-be-vietnam-pro);
+  text-align: center;
+}
+.process-01-icon5 {
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  width: 413px;
+  object-fit: cover;
+}
+.build-your-dream1,
+.living-room3,
+.weeks-to-build4 {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.weeks-to-build4 {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-cabin);
+  color: var(--neutrals-700);
+}
+.build-your-dream1 {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+}
+.container7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.more-details4 {
+  position: relative;
+}
+.button9 {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkcyan);
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-13xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-lg);
+  color: var(--neutrals-white);
+  font-family: var(--font-alatsi);
+}
+.details4,
+.living-room2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.details4 {
+  align-self: stretch;
+  padding: var(--padding-13xl);
+  gap: var(--gap-5xl);
+}
+.living-room2 {
+  position: absolute;
+  top: 325px;
+  left: 308px;
+  background-color: var(--primary-100);
+  width: 413px;
+  height: 676px;
+}
+.process-01-icon6 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.more-details5 {
+  position: relative;
+  display: inline-block;
+  width: 107px;
+  height: 27px;
+  flex-shrink: 0;
+}
+.button10 {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkcyan);
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-13xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--neutrals-white);
+  font-family: var(--font-alatsi);
+}
+.study-room1 {
+  position: absolute;
+  top: 426px;
+  left: 801px;
+  background-color: var(--primary-100);
+  width: 413px;
+  height: 676px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button-item {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.balcony2,
+.kitchen2 {
+  position: absolute;
+  top: 1081px;
+  left: 307px;
+  background-color: var(--primary-100);
+  width: 413px;
+  height: 676px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.kitchen2 {
+  top: 1182px;
+  left: 801px;
+}
+.service-page-item {
+  position: absolute;
+  top: 1947px;
+  left: 1px;
+  width: 1440px;
+  height: 414px;
+  overflow: hidden;
+}
+.service-page1 {
+  position: relative;
+  background-color: var(--neutrals-white);
+  width: 100%;
+  height: 1933px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--neutrals-900);
+  font-family: var(--font-alef);
+}

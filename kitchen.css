@@ -1,0 +1,72 @@
+.process-01-icon10 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.create-your-kitchen2,
+.kitchen5,
+.weeks-to-build8 {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+}
+.weeks-to-build8 {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-cabin);
+  color: var(--neutrals-700);
+}
+.create-your-kitchen2 {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+}
+.container13 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.more-details8 {
+  position: relative;
+}
+.button18 {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkcyan);
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-13xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--neutrals-white);
+  font-family: var(--font-alatsi);
+}
+.details8,
+.kitchen4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.details8 {
+  align-self: stretch;
+  padding: var(--padding-13xl);
+  gap: var(--gap-5xl);
+}
+.kitchen4 {
+  position: relative;
+  background-color: var(--primary-100);
+  width: 100%;
+  height: 676px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--neutrals-900);
+  font-family: var(--font-alef);
+}

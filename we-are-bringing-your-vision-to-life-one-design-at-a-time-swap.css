@@ -1,0 +1,14 @@
+.we-are-bringing2 {
+  margin: 0;
+}
+.we-are-bringing-container2 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 100%;
+  font-family: var(--font-actor);
+  color: var(--primary-500);
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  width: 413px;
+}
